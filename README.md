@@ -1,1 +1,1 @@
-# BrainTalk-ith-Open-AI-api
+# BrainTalk-with-Open-AI-api
